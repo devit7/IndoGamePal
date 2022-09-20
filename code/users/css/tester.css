@@ -1,0 +1,41 @@
+body{
+    margin: 0 auto;
+}
+.testerimg{
+    padding: 10px;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.testerimg img{
+    width: 200px;
+    height: auto;
+}
+.sub-nav{
+    display: flex;
+}
+.sub-nav li{
+    display: inline;
+
+}
+.sub-nav li a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    margin-right: 20px;
+
+}
+ul li:hover:before {
+    content: "";
+    position: absolute;
+    top: -15px;
+    background: red;
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    left:calc(50% - 8px);
+}
