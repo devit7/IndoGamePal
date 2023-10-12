@@ -1,6 +1,6 @@
 # Indo Gamepal Landing Page
 
-![Indo Gamepal Landing Page](https://lh3.googleusercontent.com/drive-viewer/AITFw-zzhquzNB307d1RAZREnOEHxsF7K2V0IgkdfVBk68hJqqoTrv4HaFzLcZ7SG8Iey8UDf7Mpn9ndsdWkk2FsxlTXq_TFLg=s1600)
+![Indo Gamepal Landing Page](https://iili.io/J27uTgf.png)
 
 Ini adalah sebuah landing page sederhana yang saya buat untuk proyek "Indo Gamepal". Landing page ini memiliki beberapa fitur dan inspirasi yang saya temukan ketika otak saya tidak bisa berhenti berpikir (pada saat itu :3).
 
